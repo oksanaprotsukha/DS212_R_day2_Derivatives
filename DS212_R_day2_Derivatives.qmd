@@ -39,3 +39,12 @@ eval(dg_dz)
 ```
 Hello. Testing the changes in this doc.
 
+```{r}
+# --- Simple calc
+a <- 1
+b <- 2
+
+a+b
+```
+
+
